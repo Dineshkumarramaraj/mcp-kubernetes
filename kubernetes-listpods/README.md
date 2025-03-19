@@ -15,6 +15,7 @@
 }
 
 Note: In command, try to give pull path of go bin eg: ~/go/bin/kubernetes-listpods
+![Image](https://github.com/user-attachments/assets/3be7f196-b042-4941-a7ce-060405e00359)
 
 #If you dont have claude desktop installed on your laptop, then try running below command in developer mode
 
